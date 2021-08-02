@@ -1,0 +1,22 @@
+{
+  "name": "ftn-crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mypal/ftn-crawl.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mypal/ftn-crawl/issues"
+  },
+  "homepage": "https://github.com/mypal/ftn-crawl#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
